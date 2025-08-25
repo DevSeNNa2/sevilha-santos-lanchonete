@@ -22,7 +22,7 @@ const Hero = () => {
           <div className="flex justify-center mb-6">
             <div className="flex items-center gap-2 bg-accent text-accent-foreground px-4 py-2 rounded-full text-sm font-medium">
               <Star className="w-4 h-4 fill-current" />
-              <span>Rei das Vitaminas desde 1995</span>
+              <span>O Rei das Vitaminas desde 1962</span>
               <Star className="w-4 h-4 fill-current" />
             </div>
           </div>
@@ -57,15 +57,15 @@ const Hero = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto">
             <div className="text-center">
-              <div className="text-3xl font-bold text-accent mb-2">25+</div>
+              <div className="text-3xl font-bold text-accent mb-2">60+</div>
               <div className="text-sm opacity-80">Anos de tradição</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-accent mb-2">100+</div>
+              <div className="text-3xl font-bold text-accent mb-2">50+</div>
               <div className="text-sm opacity-80">Sabores únicos</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-accent mb-2">1000+</div>
+              <div className="text-3xl font-bold text-accent mb-2">10000+</div>
               <div className="text-sm opacity-80">Clientes satisfeitos</div>
             </div>
           </div>

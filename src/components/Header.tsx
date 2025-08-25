@@ -14,17 +14,13 @@ const Header = () => {
         <div className="hidden md:flex justify-between items-center py-2 text-sm border-b border-muted">
           <div className="flex items-center gap-6">
             <div className="flex items-center gap-2 text-muted-foreground">
-              <Clock className="w-4 h-4" />
-              <span>Seg-Dom: 8h às 22h</span>
-            </div>
-            <div className="flex items-center gap-2 text-muted-foreground">
               <MapPin className="w-4 h-4" />
-              <span>Rua das Vitaminas, 123 - Centro</span>
+              <span>Rua Ana Costa, 460 - Gonzaga</span>
             </div>
           </div>
           <div className="flex items-center gap-2 text-primary font-medium">
             <Phone className="w-4 h-4" />
-            <span>(11) 99999-9999</span>
+            <span>(13) 3322-5397</span>
           </div>
         </div>
 
@@ -32,7 +28,7 @@ const Header = () => {
         <div className="flex items-center justify-between py-4">
           <div className="flex items-center">
             <img 
-              src="/lovable-uploads/c1edb1e0-f3fa-4baa-a39c-e0c6b1db6b17.png" 
+              src="/senna-uploads/c1edb1e0-f3fa-4baa-a39c-e0c6b1db6b17.png" 
               alt="Sevilha Sucos & Lanches" 
               className="h-16 w-auto"
             />

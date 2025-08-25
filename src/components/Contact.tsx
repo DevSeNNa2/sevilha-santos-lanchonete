@@ -30,12 +30,12 @@ const Contact = () => {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground text-lg mb-4">
-                    Rua das Vitaminas, 123<br />
-                    Centro - São Paulo, SP<br />
-                    CEP: 01234-567
+                    Rua Ana Costa, 460<br />
+                    Gonzaga - Santos, SP<br />
+                    CEP: 11060-002
                   </p>
                   <Button variant="outline" className="w-full">
-                    Ver no Mapa
+                    <a href="https://maps.app.goo.gl/H9CykVx3UP8MZfTw6">Ver no Mapa</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -49,7 +49,7 @@ const Contact = () => {
                     </CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-lg font-medium">(11) 99999-9999</p>
+                    <p className="text-lg font-medium">(13) 3322-5397</p>
                     <p className="text-sm text-muted-foreground">WhatsApp disponível</p>
                   </CardContent>
                 </Card>
@@ -62,8 +62,14 @@ const Contact = () => {
                     </CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-lg font-medium">8h às 22h</p>
-                    <p className="text-sm text-muted-foreground">Segunda a Domingo</p>
+                    <p className="text-lg font-medium">9hr às 21h</p>
+                    <p className="text-sm text-muted-foreground">Segunda-feira
+                      <br />
+                      Terça à Sábado: 9hr às 00:30h
+                      <br />
+                      Domingo: 18:00h às 00:30h
+
+                    </p>
                   </CardContent>
                 </Card>
               </div>
@@ -90,14 +96,12 @@ const Contact = () => {
               </Card>
 
               <div className="flex justify-center gap-4">
-                <Button variant="outline" size="icon" className="w-12 h-12">
+                <Button variant="outline" size="icon" className="w-12 h-12" >
+                  <a href="https://www.instagram.com/sevilha_lanches?igsh=cnJqYzN2dDJqNHcx"></a>
                   <Instagram className="w-6 h-6" />
                 </Button>
                 <Button variant="outline" size="icon" className="w-12 h-12">
                   <Facebook className="w-6 h-6" />
-                </Button>
-                <Button variant="outline" size="icon" className="w-12 h-12">
-                  <Mail className="w-6 h-6" />
                 </Button>
               </div>
             </div>

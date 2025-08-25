@@ -13,7 +13,7 @@ const Footer = () => {
               className="h-12 w-auto brightness-0 invert"
             />
             <p className="text-primary-foreground/80 leading-relaxed">
-              Há mais de 25 anos levando sabor, qualidade e tradição para sua mesa. 
+              Há mais de 60 anos levando sabor, qualidade e tradição para sua mesa. 
               O rei das vitaminas que você conhece e confia.
             </p>
           </div>
@@ -24,15 +24,19 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-accent" />
-                <span className="text-primary-foreground/90">(11) 99999-9999</span>
+                <span className="text-primary-foreground/90">(13) 3322-5397</span>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="w-4 h-4 text-accent" />
-                <span className="text-primary-foreground/90">Rua das Vitaminas, 123 - Centro</span>
+                <span className="text-primary-foreground/90">Rua Ana Costa, 460 - Gonzaga</span>
               </div>
               <div className="flex items-center gap-3">
                 <Clock className="w-4 h-4 text-accent" />
-                <span className="text-primary-foreground/90">Seg-Dom: 8h às 22h</span>
+                <span className="text-primary-foreground/90">Ter-Sáb: 9h às 00:30h
+                <br />
+                Segunda-feira: 9h às 21h
+                <br />
+                Domingo: 18h às 00:30h</span>
               </div>
             </div>
           </div>
@@ -61,7 +65,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-primary-foreground/70 text-sm">
-              © 2024 Sevilha Sucos & Lanches. Todos os direitos reservados.
+              © 2025 Sevilha Sucos & Lanches. Todos os direitos reservados.
             </p>
             <div className="flex items-center gap-2 text-primary-foreground/70 text-sm">
               <span>Feito com</span>

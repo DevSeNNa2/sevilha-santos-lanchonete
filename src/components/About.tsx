@@ -34,7 +34,7 @@ const About = () => {
               Nossa História
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Desde 1995, a Sevilha é sinônimo de qualidade, sabor e tradição em sucos naturais e lanches deliciosos.
+              Desde 1962, a Sevilha é sinônimo de qualidade, sabor e tradição em sucos naturais e lanches deliciosos.
             </p>
           </div>
 
@@ -66,7 +66,7 @@ const About = () => {
               <div className="bg-gradient-hero rounded-2xl p-8 text-primary-foreground">
                 <div className="grid grid-cols-2 gap-6">
                   <div className="text-center">
-                    <div className="text-4xl font-bold text-accent mb-2">25+</div>
+                    <div className="text-4xl font-bold text-accent mb-2">60+</div>
                     <div className="text-sm opacity-90">Anos de experiência</div>
                   </div>
                   <div className="text-center">
