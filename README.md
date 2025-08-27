@@ -1,18 +1,69 @@
-Site para Sevilha - Sucos & Lanches
-Bem-vindo ao repositório do site oficial do DevSenna, esse projeto é de livre e espontânea criação para uma lanchonete muito famosa na minha cidade.
+## SEVILHA-SANTOS-LANCHONETE
 
-Tecnologias Utilizadas
-Este projeto foi desenvolvido com tecnologias modernas para garantir uma experiência rápida e responsiva.
+Transformando Ideias em Experiências Digitais Impactantes
 
-Vite: Um ambiente de desenvolvimento frontend de próxima geração.
-React: Uma biblioteca JavaScript para criar interfaces de utilizador.
-TypeScript: Um superconjunto do JavaScript que adiciona tipagem estática.
-Tailwind CSS: Uma estrutura CSS utilitária para um design rápido e personalizado.
-Shadcn/ui: Uma coleção de componentes de interface de utilizador construídos com Radix UI e Tailwind CSS.
+Construído com as seguintes ferramentas e tecnologias:
 
-Visão Geral do Design
-O design do site foi criado para ser limpo e moderno, usando o Tailwind CSS para estilos utilitários.
-!
+### Sumário
 
-Créditos
-Este projet será oferecido à empresa e também será portifólio.
+  * [Visão Geral](https://www.google.com/search?q=%23vis%C3%A3o-geral)
+  * [Primeiros Passos](https://www.google.com/search?q=%23primeiros-passos)
+      * [Pré-requisitos](https://www.google.com/search?q=%23pr%C3%A9-requisitos)
+      * [Instalação](https://www.google.com/search?q=%23instala%C3%A7%C3%A3o)
+  * [Uso](https://www.google.com/search?q=%23uso)
+  * [Testes](https://www.google.com/search?q=%23testes)
+
+-----
+
+### Visão Geral
+
+Sevilha Santos Lanchonete é um kit de ferramentas moderno para desenvolvedores, baseado em React, projetado para otimizar o desenvolvimento front-end com foco em qualidade, acessibilidade e escalabilidade. Ele combina ferramentas poderosas, componentes estilizados e melhores práticas para ajudar desenvolvedores a construir interfaces web manteníveis e sem erros de forma rápida e eficiente. As principais funcionalidades incluem:
+
+  * ⚡ **Configuração ESLint**: Garante código consistente e de alta qualidade em projetos JavaScript, TypeScript e React.
+  * ⚡ **Configuração Vite**: Oferece um ambiente de desenvolvimento rápido e um processo de construção otimizado.
+  * 💖 **Componentes de UI Reutilizáveis**: Construído com primitivas Radix UI e Tailwind CSS para interfaces acessíveis e personalizáveis.
+  * 📱 **Hooks e Notificações Responsivos**: Facilita layouts adaptáveis e mecanismos de feedback do usuário.
+  * 🚀 **Arquitetura Estruturada**: Suporta desenvolvimento escalável e modular para projetos complexos.
+
+-----
+
+### Primeiros Passos
+
+Este projeto requer as seguintes dependências:
+
+  * Linguagem de Programação: **TypeScript**
+  * Gerenciador de Pacotes: **Npm**
+
+#### Instalação
+
+Construa o `sevilha-santos-lanchonete` a partir do código-fonte e instale as dependências:
+
+1.  **Clonar o repositório:**
+
+    ```bash
+    git clone https://github.com/DevSeNNa2/sevilha-santos-lanchonete
+    ```
+
+2.  **Navegar para o diretório do projeto:**
+
+    ```bash
+    cd sevilha-santos-lanchonete
+    ```
+
+-----
+
+### Uso
+
+Execute o projeto com:
+
+```bash
+npm start
+```
+
+### Testes
+
+`sevilha-santos-lanchonete` usa o framework de teste `{test_framework}`. Execute a suíte de testes com:
+
+```bash
+npm test
+```
